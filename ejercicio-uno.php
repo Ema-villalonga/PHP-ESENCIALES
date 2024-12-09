@@ -1,8 +1,13 @@
 <html>
-    <head></head>
-    <body>
+
+<head></head>
+
+
     <?php
-    echo"Chanchito Felíz"
+    echo "Emanuel esta felíz";
+    echo "<br/>"; 
+    echo "Por que aprendió a usar PHP"
     ?>
-    </body>
+</body>
+
 </html>
